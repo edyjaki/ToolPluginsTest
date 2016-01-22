@@ -1,0 +1,2 @@
+# ToolPluginsTest
+各種ツールやEclipseプラグインをテストするプロジェクト群用リポジトリ
